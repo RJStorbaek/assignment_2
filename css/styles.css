@@ -5,4 +5,6 @@
   --content-color-nav: #000000;
   --background-color-nav: #da020e;
   --content-color-main: #ffffff;
+  --card-background: rgb(0 0 0 / 0.7);
+  --card-color: white;
 }
