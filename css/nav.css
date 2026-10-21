@@ -3,21 +3,24 @@ nav {
   height: 5%;
   position: static;
   z-index: 10;
-  background-color: var(--background-color-nav);
-  color: var(--content-color-nav);
+  background-color: black;
   min-height: 64px;
   padding: 0 1.5rem;
   top: 0;
   left: 0;
-  display: flex;
+  display: grid;
+  grid-template-columns: 1fr auto 1fr;
   align-items: center;
-  justify-content: space-evenly;
-  flex-direction: row;
+
   border: 2px solid black;
-  font-family: PremierLeague;
+  font-family: var(--font-main);
 }
 
 .nav__button {
-  /* display: flex; */
-  color: var(--content-color-nav);
+  color: var(--content-color-main);
+}
+
+.nav__crest {
+  max-width: 64px;
+  height: auto;
 }

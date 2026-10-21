@@ -7,6 +7,7 @@
   --content-color-main: #ffffff;
   --card-background: rgb(0 0 0 / 0.8);
   --card-color: white;
+  --font-main: "PremierLeague", Arial, sans-serif;
 }
 
 @font-face {

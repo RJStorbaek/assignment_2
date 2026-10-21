@@ -35,7 +35,7 @@
   background-color: var(--card-background);
   /* aspect-ratio: 9/16; */
   color: var(--card-color);
-  font-family: PremierLeague;
+  font-family: var(--font-main);
 }
 
 .card:hover {

@@ -6,6 +6,8 @@ Some players are missing due to the Premier League website not having assets for
 
 Just in case I deliver a buggy mess that does not function properly: I could probably have vibe coded a functional design using LLMs, but I didn't want to add any code that I didn't at least partially understand. I have used LLMs to explain concepts, but the purpose has been to learn, every time, not copy the code it spews out. For instance, the hover effect on the cards using transform:scale(x); was solved with the help of chatgpt, but I felt I understood how it worked and why it did what it did, so I implemented it, even if I did not know the line of code I needed to enter, to get the function I wanted.
 
+Another solution aided by chatgpt: grid-template-columns: 1fr auto 1fr; in the nav bar. I'm not sure if I wasn't paying attention or if it was not mentioned in the lectures, but using auto to center elements using either grid, or margin was not something I picked up on at the time.
+
 I wanted to add tooltips to all the flags, so they would show the country name when hovered over, but put it far down on the priority list. This is one of many examples, of things I could have implemented, but being behind on lectures, I feel like I need to prioritise being caught up, over trying to perfect this assignment.
 
-The look and UX of this assignment is heavily inspired by the example shown in one of the lectures, of the Juventus squad. I'm not a designer (yet) and figured I should put my energy into making it functional over trying to be original.
+The look and UX of this assignment is heavily inspired by the example shown in one of the lectures, of the Juventus squad. I figured I should put my energy into making it functional over trying to be original.

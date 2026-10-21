@@ -1,7 +1,6 @@
 footer {
   width: 100%;
   height: 5%;
-  /* position: sticky; */
   z-index: 10;
   background-color: var(--background-color-nav);
   color: var(--content-color-nav);
@@ -14,7 +13,7 @@ footer {
   justify-content: space-evenly;
   flex-direction: column;
   border: 2px solid black;
-  font-family: PremierLeague;
+  font-family: var(--font-main);
 }
 
 .disclaimer {
