@@ -14,6 +14,7 @@ nav {
   justify-content: space-evenly;
   flex-direction: row;
   border: 2px solid black;
+  font-family: PremierLeague;
 }
 
 .nav__button {
