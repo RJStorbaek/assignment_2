@@ -5,6 +5,21 @@
   --content-color-nav: #000000;
   --background-color-nav: #da020e;
   --content-color-main: #ffffff;
-  --card-background: rgb(0 0 0 / 0.7);
+  --card-background: rgb(0 0 0 / 0.8);
   --card-color: white;
+}
+
+@font-face {
+  font-family: PremierLeague;
+  src: url(../assets/fonts/PremierLeagueW01-Regular.woff2);
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: PremierLeague;
+  src: url(../assets/fonts/PremierLeagueW01-Bold.woff2);
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
 }

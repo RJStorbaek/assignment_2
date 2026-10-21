@@ -33,6 +33,38 @@
   border-radius: 5px;
 
   background-color: var(--card-background);
-
+  /* aspect-ratio: 9/16; */
   color: var(--card-color);
+  font-family: PremierLeague;
+}
+
+.card__header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.card__number {
+  margin: 4px;
+}
+
+.fi {
+  margin: 8px;
+}
+
+.card__image-container {
+  align-self: center;
+}
+
+.card__footer {
+  align-self: center;
+  padding: 4px;
+}
+
+.card__name {
+}
+
+.card__position {
+}
+
+.card__age {
 }
